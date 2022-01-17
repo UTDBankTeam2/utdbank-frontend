@@ -38,19 +38,14 @@ const Facility = () => {
                         dolore magna aliqua. Ut enim ad minim numquam eius modi
                         tempora incidunt ut labore et dolore magnam
                       </p>
-                      {/* <Link
+                      <Link
                         to="/authentication"
                         className="btn1 blue-gradient btn-with-image"
                       >
                         <i className="flaticon-login"></i>
                         <i className="flaticon-login"></i>
                         Get Started
-                      </Link> */}
-                      <a href="#" className="btn1 blue-gradient btn-with-image">
-                        <i className="flaticon-login"></i>
-                        <i className="flaticon-login"></i>
-                        Get Started
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>
