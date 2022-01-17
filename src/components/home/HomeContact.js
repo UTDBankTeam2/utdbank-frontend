@@ -23,22 +23,14 @@ const HomeContact = () => {
             <p>*We’re willingly is here to answer your question about Aila</p>
             <ul className="section-button">
               <li>
-                {/* <Link
+                <Link
                   to="/contact-us"
                   className="btn1 orange-gradient btn-with-image"
                 >
                   <i className="flaticon-agenda"></i>
                   <i className="flaticon-agenda"></i>
                   Contact Us
-                </Link> */}
-                <a
-                  href="contact-us.html"
-                  className="btn1 orange-gradient btn-with-image"
-                >
-                  <i className="flaticon-agenda"></i>
-                  <i className="flaticon-agenda"></i>
-                  Contact Us
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
