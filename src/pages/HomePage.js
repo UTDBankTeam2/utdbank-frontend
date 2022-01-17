@@ -8,6 +8,8 @@ import Counters from "../components/home/Counters";
 import Facility from "../components/home/Facility";
 import HomeContact from "../components/home/HomeContact";
 import HomePricing from "../components/home/HomePricing";
+import HomeService from "../components/home/HomeService";
+import Testimonals from "../components/home/Testimonals";
 
 const HomePage = () => {
   return (
@@ -18,11 +20,11 @@ const HomePage = () => {
       <Features />
       <HomeAbout />
       <Counters />
-      {/* homeservice gelecek */}
-      <HomePricing/>
+      <HomeService />
+      <HomePricing />
       <Facility />
       <HomeContact />
-      {/* Testimonal gelecek */}
+      <Testimonals />
     </>
   );
 };
