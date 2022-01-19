@@ -1,5 +1,5 @@
 import React from "react";
-import SectionTitle from "../common/SectionTitle";
+import SectionTitle from "../../common/SectionTitle";
 import CounterItem from "./CounterItem";
 
 const Counters = () => {
