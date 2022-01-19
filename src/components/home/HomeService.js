@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import SectionTitle from "../common/SectionTitle";
 import ServiceItem from "../service/ServiceItem";
 
@@ -21,14 +22,14 @@ const HomeService = () => {
 
                   {/* <!-- SECTION TITLE END --> */}
 
-                  <a
-                    href="services.html"
+                  <Link
+                    to="/service"
                     className="btn1 blue-gradient btn-with-image"
                   >
                     <i className="flaticon-login"></i>
                     <i className="flaticon-login"></i>
                     Get Started
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>

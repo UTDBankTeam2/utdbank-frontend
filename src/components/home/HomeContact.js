@@ -24,7 +24,7 @@ const HomeContact = () => {
             <ul className="section-button">
               <li>
                 <Link
-                  to="/contact-us"
+                  to="/contact"
                   className="btn1 orange-gradient btn-with-image"
                 >
                   <i className="flaticon-agenda"></i>
