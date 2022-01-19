@@ -1,5 +1,5 @@
 import React from "react";
-import SectionTitle from "../common/SectionTitle";
+import SectionTitle from "../../common/SectionTitle";
 import Testimonal from "./Testimonal";
 
 const Testimonals = () => {

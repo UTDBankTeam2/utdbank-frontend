@@ -1,12 +1,12 @@
 import { BrowserRouter } from "react-router-dom";
 import "./App.css";
-import CustomRouter from "./router/CustomRouter";
+import CustomRoutes from "./router/CustomRoutes";
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <CustomRouter />
+        <CustomRoutes />
       </BrowserRouter>
     </div>
   );

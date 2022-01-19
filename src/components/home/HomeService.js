@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import SectionTitle from "../common/SectionTitle";
-import ServiceItem from "../service/ServiceItem";
+import ServiceItem from "../services/ServiceItem";
 
 const HomeService = () => {
   return (
