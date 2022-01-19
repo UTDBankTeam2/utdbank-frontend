@@ -24,13 +24,13 @@ const Menu = () => {
               </li>
 
               <li className="nav-item">
-                <Link to="/about-us" className="nav-link">
+                <Link to="/about" className="nav-link">
                   About Us
                 </Link>
               </li>
 
               <li className="nav-item">
-                <Link to="/services" className="nav-link">
+                <Link to="/service" className="nav-link">
                   Services
                 </Link>
               </li>
@@ -42,7 +42,7 @@ const Menu = () => {
               </li>
 
               <li className="nav-item">
-                <Link to="/contact-us" className="nav-link">
+                <Link to="/contact" className="nav-link">
                   Contact Us
                 </Link>
               </li>
